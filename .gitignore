@@ -1,4 +1,4 @@
 starttenv/
 encoder
 scaler
-lgmodel
+lrmodel
